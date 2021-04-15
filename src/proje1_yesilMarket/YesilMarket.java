@@ -12,7 +12,7 @@ public class YesilMarket {
 	static int urun = 0;
 	static double fiyat = 0;
 	static double toplam = 0;
-	static boolean flag=false;
+	static boolean flag=false; 
 	static char devam=' ';
 	public static void main(String[] args) {
 		/* Yeşil Market alış-veriş programı.
